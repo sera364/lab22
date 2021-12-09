@@ -1,0 +1,10 @@
+1-making directory 
+2-cd lab22
+3-git init
+4-touch sara_galal
+5-git add --all
+6- git commit -m "modified"
+7- git branch -M main
+8-git remote add origin url
+8- create ssh key  
+9- git push origin main
