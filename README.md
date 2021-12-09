@@ -27,6 +27,6 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 ---
 [MIT](https://www.mit.edu/)
 x-special/nautilus-clipboard
-copy
-file:///home/sara/Pictures/Screenshot%20from%202021-12-09%2013-21-06.png
+
+![]file:///home/sara/Pictures/Screenshot%20from%202021-12-09%2013-21-06.png
 
