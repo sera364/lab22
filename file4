@@ -1,0 +1,7 @@
+//delete remotely
+  git push sara :dev 
+  git push sara :test
+
+//delete locally
+  git push sara -d dev 
+  git push sara -d test
