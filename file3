@@ -1,0 +1,8 @@
+1-git checkout sara
+2-git branch dev
+3- git branch test
+4-touch file3
+5-touch file4
+6-git add --all
+7-git commit -m "created"
+8-git push origin dev
