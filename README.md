@@ -28,5 +28,5 @@ foobar.singularize('phenomena') # returns 'phenomenon'
 [MIT](https://www.mit.edu/)
 x-special/nautilus-clipboard
 
-![]file:///home/sara/Pictures/Screenshot%20from%202021-12-09%2013-21-06.png
+![](https://news.cgtn.com/news/2020-09-20/Spider-flower-The-flower-with-a-distinctive-display-TVYLozFKg0/img/9c42156e261a4d2282370c03fce43a0a/9c42156e261a4d2282370c03fce43a0a.jpeg)
 
